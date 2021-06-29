@@ -24,8 +24,14 @@ There are two class in this code. Para.hpp is the class to store all parameters,
 Include Para.hpp and Paint.hpp, and call paint() function in Paint.hpp for each frame you would like to process.
 Check finalProject.cpp for an example.
 
-A demo of how th layers are painted
-<img width="448" alt="Screen Shot 2021-06-28 at 11 26 53 PM" src="https://user-images.githubusercontent.com/24727472/123725475-b102c000-d8c0-11eb-8733-efa607cbf101.png">Screen Shot 2021-06-28 at 11.26.57 PM.png<img width="448" alt="Screen Shot 2021-06-28 at 11 26 57 PM" src="https://user-images.githubusercontent.com/24727472/123725557-d5f73300-d8c0-11eb-8edc-6453fa999b64.png">Screen Shot 2021-06-28 at 11.27.01 PM.png<img width="448" alt="Screen Shot 2021-06-28 at 11 27 01 PM" src="https://user-images.githubusercontent.com/24727472/123725571-dabbe700-d8c0-11eb-89ba-45ec0988c4fd.png">Screen Shot 2021-06-28 at 11.27.04 PM.png<img width="448" alt="Screen Shot 2021-06-28 at 11 27 04 PM" src="https://user-images.githubusercontent.com/24727472/123725577-de4f6e00-d8c0-11eb-95e5-a07521adbf83.png">Screen Shot 2021-06-28 at 11.27.07 PM.png<img width="448" alt="Screen Shot 2021-06-28 at 11 27 07 PM" src="https://user-images.githubusercontent.com/24727472/123725594-e90a0300-d8c0-11eb-93d1-547601e51a37.png">Screen Shot 2021-06-28 at 11.27.43 PM.png<img width="448" alt="Screen Shot 2021-06-28 at 11 27 43 PM" src="https://user-images.githubusercontent.com/24727472/123725627-f9ba7900-d8c0-11eb-8584-e7171bd69a60.png">
+A demo of how th layers are painted  
+Original<img width="448" alt="Screen Shot 2021-06-29 at 10 02 26 AM" src="https://user-images.githubusercontent.com/24727472/123725765-430ac880-d8c1-11eb-8da7-e4c2a4114173.png">
+<img width="448" alt="Screen Shot 2021-06-28 at 11 26 53 PM" src="https://user-images.githubusercontent.com/24727472/123725475-b102c000-d8c0-11eb-8733-efa607cbf101.png">Layer1
+<img width="448" alt="Screen Shot 2021-06-28 at 11 26 57 PM" src="https://user-images.githubusercontent.com/24727472/123725557-d5f73300-d8c0-11eb-8edc-6453fa999b64.png">Layer2
+<img width="448" alt="Screen Shot 2021-06-28 at 11 27 01 PM" src="https://user-images.githubusercontent.com/24727472/123725571-dabbe700-d8c0-11eb-89ba-45ec0988c4fd.png">Layer3
+<img width="448" alt="Screen Shot 2021-06-28 at 11 27 04 PM" src="https://user-images.githubusercontent.com/24727472/123725577-de4f6e00-d8c0-11eb-95e5-a07521adbf83.png">Layer4
+g<img width="448" alt="Screen Shot 2021-06-28 at 11 27 07 PM" src="https://user-images.githubusercontent.com/24727472/123725594-e90a0300-d8c0-11eb-93d1-547601e51a37.png">Layer5
+<img width="448" alt="Screen Shot 2021-06-28 at 11 27 43 PM" src="https://user-images.githubusercontent.com/24727472/123725627-f9ba7900-d8c0-11eb-8584-e7171bd69a60.png">Final
 
 
 
