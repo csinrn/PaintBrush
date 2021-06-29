@@ -13,9 +13,9 @@ $pkg-config opencv4 --cflags --libs
 
 After make sure opencv is installed, run
 ```
-make
-./finalProject.o [path to source video]         # default in opencv DIVX encoding
-./finalProject.o [path to source video] MJPEG   # use MJPEG encoding instead
+$ make
+$ ./finalProject.o [path to source video]         # default in opencv DIVX encoding
+$ ./finalProject.o [path to source video] MJPEG   # use MJPEG encoding instead
 ```
 the window will show the processed frame, and f.avi will be created in the current directory.
 
@@ -25,13 +25,13 @@ Include Para.hpp and Paint.hpp, and call paint() function in Paint.hpp for each 
 Check finalProject.cpp for an example.
 
 A demo of how th layers are painted  
-Original<img width="448" alt="Screen Shot 2021-06-29 at 10 02 26 AM" src="https://user-images.githubusercontent.com/24727472/123725765-430ac880-d8c1-11eb-8da7-e4c2a4114173.png">
-<img width="448" alt="Screen Shot 2021-06-28 at 11 26 53 PM" src="https://user-images.githubusercontent.com/24727472/123725475-b102c000-d8c0-11eb-8733-efa607cbf101.png">Layer1
-<img width="448" alt="Screen Shot 2021-06-28 at 11 26 57 PM" src="https://user-images.githubusercontent.com/24727472/123725557-d5f73300-d8c0-11eb-8edc-6453fa999b64.png">Layer2
-<img width="448" alt="Screen Shot 2021-06-28 at 11 27 01 PM" src="https://user-images.githubusercontent.com/24727472/123725571-dabbe700-d8c0-11eb-89ba-45ec0988c4fd.png">Layer3
-<img width="448" alt="Screen Shot 2021-06-28 at 11 27 04 PM" src="https://user-images.githubusercontent.com/24727472/123725577-de4f6e00-d8c0-11eb-95e5-a07521adbf83.png">Layer4
-g<img width="448" alt="Screen Shot 2021-06-28 at 11 27 07 PM" src="https://user-images.githubusercontent.com/24727472/123725594-e90a0300-d8c0-11eb-93d1-547601e51a37.png">Layer5
-<img width="448" alt="Screen Shot 2021-06-28 at 11 27 43 PM" src="https://user-images.githubusercontent.com/24727472/123725627-f9ba7900-d8c0-11eb-8584-e7171bd69a60.png">Final
+Original![demoPicture](https://user-images.githubusercontent.com/24727472/123726840-40a96e00-d8c3-11eb-804b-c5b544db9ec3.jpg)
+Layer1<img width="593" alt="Screen Shot 2021-06-29 at 10 11 35 AM" src="https://user-images.githubusercontent.com/24727472/123726846-443cf500-d8c3-11eb-813e-302f322d51f8.png">
+Layer2<img width="593" alt="Screen Shot 2021-06-29 at 10 11 40 AM" src="https://user-images.githubusercontent.com/24727472/123726850-4606b880-d8c3-11eb-888d-d71257d857a4.png">
+Layer3<img width="593" alt="Screen Shot 2021-06-29 at 10 11 44 AM" src="https://user-images.githubusercontent.com/24727472/123726858-499a3f80-d8c3-11eb-9573-aec468edeae4.png">
+Layer4<img width="593" alt="Screen Shot 2021-06-29 at 10 11 47 AM" src="https://user-images.githubusercontent.com/24727472/123726869-4dc65d00-d8c3-11eb-8afb-b3545b7c3871.png">
+Layer5<img width="593" alt="Screen Shot 2021-06-29 at 10 11 50 AM" src="https://user-images.githubusercontent.com/24727472/123726877-50c14d80-d8c3-11eb-8461-f5a3fcd2efb1.png">
+Final<img width="593" alt="Screen Shot 2021-06-29 at 10 11 58 AM" src="https://user-images.githubusercontent.com/24727472/123726883-528b1100-d8c3-11eb-8c04-661e7b97df29.png">
 
 
 
