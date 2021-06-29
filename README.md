@@ -1,10 +1,10 @@
 # PaintBrush
-implementation of Implementation of Aaron Hertzmann's paper "Painterly Rendering with Curved Brush Strokes of Multiple Sizes".
+Implementation of Aaron Hertzmann's paper "Painterly Rendering with Curved Brush Strokes of Multiple Sizes".
 
 
 ### To test the code
 Install g++ opencv4, and cmake
-ensure cmd command ```pkg-config opencv4 --cflags --libs``` return all opencv4 dependencies
+ensure cmd command ```pkg-config opencv4 --cflags --libs``` returns all opencv4 dependencies
 for example:
 ```
 $pkg-config opencv4 --cflags --libs
@@ -14,13 +14,13 @@ $pkg-config opencv4 --cflags --libs
 After make sure opencv is installed, run
 ```
 $ make
-$ ./finalProject.o [path to source video]         # default in opencv DIVX encoding
+$ ./finalProject.o [path to source video]         # default in opencv DIVX encoding for a better quality, some video players may have trouble opening the file with this encoding
 $ ./finalProject.o [path to source video] MJPEG   # use MJPEG encoding instead
 ```
 the window will show the processed frame, and f.avi will be created in the current directory.
 
 ### To Use the Library
-There are two class in this code. Para.hpp is the class to store all parameters, and Paint.hpp is to implement the painting algorithm.
+There are two classes in this code. Para.hpp is the class to store all parameters, and Paint.hpp is to implement the painting algorithm.
 Include Para.hpp and Paint.hpp, and call paint() function in Paint.hpp for each frame you would like to process.
 Check finalProject.cpp for an example.
 
