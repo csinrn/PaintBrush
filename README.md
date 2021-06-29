@@ -25,13 +25,14 @@ Include Para.hpp and Paint.hpp, and call paint() function in Paint.hpp for each 
 Check finalProject.cpp for an example.
 
 A demo of how th layers are painted  
-Original![demoPicture](https://user-images.githubusercontent.com/24727472/123726840-40a96e00-d8c3-11eb-804b-c5b544db9ec3.jpg)
-Layer1<img width="593" alt="Screen Shot 2021-06-29 at 10 11 35 AM" src="https://user-images.githubusercontent.com/24727472/123726846-443cf500-d8c3-11eb-813e-302f322d51f8.png">
-Layer2<img width="593" alt="Screen Shot 2021-06-29 at 10 11 40 AM" src="https://user-images.githubusercontent.com/24727472/123726850-4606b880-d8c3-11eb-888d-d71257d857a4.png">
-Layer3<img width="593" alt="Screen Shot 2021-06-29 at 10 11 44 AM" src="https://user-images.githubusercontent.com/24727472/123726858-499a3f80-d8c3-11eb-9573-aec468edeae4.png">
-Layer4<img width="593" alt="Screen Shot 2021-06-29 at 10 11 47 AM" src="https://user-images.githubusercontent.com/24727472/123726869-4dc65d00-d8c3-11eb-8afb-b3545b7c3871.png">
-Layer5<img width="593" alt="Screen Shot 2021-06-29 at 10 11 50 AM" src="https://user-images.githubusercontent.com/24727472/123726877-50c14d80-d8c3-11eb-8461-f5a3fcd2efb1.png">
-Final<img width="593" alt="Screen Shot 2021-06-29 at 10 11 58 AM" src="https://user-images.githubusercontent.com/24727472/123726883-528b1100-d8c3-11eb-8c04-661e7b97df29.png">
+![demoPicture](https://user-images.githubusercontent.com/24727472/123726840-40a96e00-d8c3-11eb-804b-c5b544db9ec3.jpg)
+Original  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 35 AM" src="https://user-images.githubusercontent.com/24727472/123726846-443cf500-d8c3-11eb-813e-302f322d51f8.png">Layer1  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 40 AM" src="https://user-images.githubusercontent.com/24727472/123726850-4606b880-d8c3-11eb-888d-d71257d857a4.png">Layer2  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 44 AM" src="https://user-images.githubusercontent.com/24727472/123726858-499a3f80-d8c3-11eb-9573-aec468edeae4.png">Layer3  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 47 AM" src="https://user-images.githubusercontent.com/24727472/123726869-4dc65d00-d8c3-11eb-8afb-b3545b7c3871.png">Layer4  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 50 AM" src="https://user-images.githubusercontent.com/24727472/123726877-50c14d80-d8c3-11eb-8461-f5a3fcd2efb1.png">Layer5  
+<img width="400" alt="Screen Shot 2021-06-29 at 10 11 58 AM" src="https://user-images.githubusercontent.com/24727472/123726883-528b1100-d8c3-11eb-8c04-661e7b97df29.png">Final
 
 
 
